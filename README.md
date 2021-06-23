@@ -3,7 +3,7 @@
 * [01.@classmethod-（类方法）和-@staticmethod（静态方法）](https://github.com/SingleDiego/Python-OOP-Notes/blob/main/docs/01.%40classmethod-%EF%BC%88%E7%B1%BB%E6%96%B9%E6%B3%95%EF%BC%89%E5%92%8C-%40staticmethod%EF%BC%88%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95%EF%BC%89.md)
 * [02.访问限制](https://github.com/SingleDiego/Python-OOP-Notes/blob/main/docs/02.%E8%AE%BF%E9%97%AE%E9%99%90%E5%88%B6.md)
 * [03.获取对象信息](https://github.com/SingleDiego/Python-OOP-Notes/blob/main/docs/03.%E8%8E%B7%E5%8F%96%E5%AF%B9%E8%B1%A1%E4%BF%A1%E6%81%AF.md)
-* [``04.__slots__``](https://github.com/SingleDiego/Python-OOP-Notes/blob/main/docs/04.__slots__.md)
+* [04.\_\_slots\_\_](https://github.com/SingleDiego/Python-OOP-Notes/blob/main/docs/04.__slots__.md)
 * [05.@property](https://github.com/SingleDiego/Python-OOP-Notes/blob/main/docs/05.%40property.md)
 * [06.__iter__()-和-__next__()](https://github.com/SingleDiego/Python-OOP-Notes/blob/main/docs/06.__iter__()-%E5%92%8C-__next__().md)
 * [07.__getitem__](https://github.com/SingleDiego/Python-OOP-Notes/blob/main/docs/07.__getitem__.md)
